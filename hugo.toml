@@ -1,4 +1,4 @@
-baseURL = 'http://mcbarasa.github.io/'
+baseURL = 'http://barasa.xyz/Post/'
 languageCode = 'en-us'
 title = 'Mcdonalds Blogs'
 theme = 'aether'
